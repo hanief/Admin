@@ -2024,12 +2024,7 @@
     lodash "^4.17.21"
     uuid "^8.3.2"
 
-"@tryghost/kg-clean-basic-html@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@tryghost/kg-clean-basic-html/-/kg-clean-basic-html-2.1.0.tgz#bcbaee459791acf4d8284ff89d18e86d10472fa5"
-  integrity sha512-pMMrmu7iWEkSqcDDBBh9r9kE3QhAmb8aiSMH079AKCeQRSveDe4GIPmGyROV83Bl2z+hkg96cMssD0yUK12Z9A==
-
-"@tryghost/kg-clean-basic-html@^2.1.2":
+"@tryghost/kg-clean-basic-html@2.1.2", "@tryghost/kg-clean-basic-html@^2.1.2":
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/@tryghost/kg-clean-basic-html/-/kg-clean-basic-html-2.1.2.tgz#a9a6df5f5fb62646f645280a002f0920861fab8b"
   integrity sha512-cvLtJKh9/2uKXZxDIcQMhXTWQN5Lv9qeORUB4zkfJBSvCPmdck28VJMHWdYHhogf/7846v1nkQKIODTBWkSpzg==
